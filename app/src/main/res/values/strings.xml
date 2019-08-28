@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseAuth2019</string>
+
+    <!--<string name="facebook_app_id" translatable="false">2336856879706886</string>-->
+    <!--<string name="facebook_login_protocol_scheme" translatable="false">fb2336856879706886</string>-->
+
+    <string name="facebook_application_id" translatable="false">2336856879706886</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2336856879706886</string>
+</resources>
